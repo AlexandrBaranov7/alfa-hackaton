@@ -1,2 +1,2 @@
-# alfa-hackaton
+# Аlfa-hackaton
 Оптимизация графика инкассаций АТМ
